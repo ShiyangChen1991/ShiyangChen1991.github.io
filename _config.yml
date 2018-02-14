@@ -12,10 +12,9 @@ markdown: kramdown
 title : Shiyang Chen
 tagline:
 author :
-  name : Tianqi Chen
-  email : tqchen@cs.washington.edu
-  github : tqchen
-  twitter : tqchenml
+  name : Shiyang Chen
+  email : shychen@umich.edu
+  github : ShiyangChen1991
 
 # The production_url is only used when full-domain names are needed
 # such as sitemap.txt
