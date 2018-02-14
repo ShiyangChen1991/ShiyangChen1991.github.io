@@ -36,6 +36,9 @@ body {
   border: 0;
 }
 
+.topbar .fill {
+  background-image: -webkit-linear-gradient(top, #00274c, #00274c);
+}
 /* tag_box ======================================================== */
 
 .tag_box {
